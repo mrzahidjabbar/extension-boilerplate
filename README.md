@@ -8,7 +8,7 @@
   </p>
 </div>
 
-Now that Firefox supports WebExtensions, it has become a lot easier to build browser extensions/addons for multiple browsers without duplicating the codebase. This project serves as a sensible starting point to help you get started.
+Now that Firefox supports WebExtensions, it has become a lot easier to build browser extensions/add-ons for multiple browsers without duplicating the codebase. This project serves as a sensible starting point to help you get started.
 
 <div align="center">
   <a href="https://www.emailthis.me/open-source/extension-boilerplate">
@@ -27,7 +27,7 @@ The Chrome Extensions is available [on the Chrome Web Store](https://chrome.goog
 <dl>
   <dt>Write once and deploy to Chrome, Opera & Firefox</dt>
   <dd>
-    Based on WebExtensions. It also includes a tiny polyfill to bring uniformity to the APIs exposed by different browsers.
+    Based on WebExtensions, it also includes a tiny polyfill to bring uniformity to the APIs exposed by different browsers.
   </dd>
 </dl>
 
